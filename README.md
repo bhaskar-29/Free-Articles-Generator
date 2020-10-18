@@ -19,7 +19,7 @@ Download this zip file of this directory.
 ### Step 3:
 ```markdown
 Unzip the file and extract. 
-You will see two files like this 
+You will see two files like this 👇
 ```
 ![alt-text](https://github.com/bhaskar-29/Free-Articles-Generator/blob/main/free_articles_news.PNG?raw=true)
 
